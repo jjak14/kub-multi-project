@@ -13,4 +13,4 @@
 ## Pushing the container
 ` $ docker push $DOCKER_USER_ID/sentiment-analysis-frontend `
 
-## The purpose of this line is to trigger a build after push
+## The purpose of this line is to trigger a build
